@@ -14,4 +14,4 @@ body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial
 .grid { margin-top: 24px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; } 
 .card { border: 1px solid #eee; border-radius: 12px; padding: 16px; background: #fff; } 
 
-:root { color-scheme: light; } /* 다음 브랜치에서 다크모드 토글 예정 */ 
+:root { color-scheme: light; } /* 다음 브랜치에서 다크모드 토글 예정 */
